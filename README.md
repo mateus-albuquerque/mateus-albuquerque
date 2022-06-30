@@ -1,6 +1,6 @@
 ### Olá, me chamo Mateus👋
 
-Atualmente trabalho ajudando diversas empresas do Brasil a deixarem os seus dados inteligíveis, possibilitando uma tomada de decisão acertiva, rápida e estratégica e evitando possíveis prejuízos financeiros e estruturais no longo prazo.
+Atualmente trabalho ajudando diversas empresas do Brasil a deixarem os seus dados inteligíveis, possibilitando uma tomada de decisão assertiva, rápida e estratégica e evitando possíveis prejuízos financeiros e estruturais no longo prazo.
 
 - 💻 Business Intelligence, Data Analysis, SQL, ITIL 
 - 🎓 Estudando Python e Cybersecurity 
