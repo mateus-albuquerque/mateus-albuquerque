@@ -19,3 +19,5 @@ Atualmente trabalho ajudando diversas empresas do Brasil a deixarem os seus dado
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=mateus-albuquerque&show_icons=true&theme=tokyonight"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-albuquerque&layout=compact&theme=tokyonight"/>
 </div>
+
+![Snake animation](https://github.com/mateus-albuquerque/mateus-albuquerque/blob/output/github-contribution-grid-snake.svg)
