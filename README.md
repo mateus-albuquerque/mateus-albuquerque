@@ -4,7 +4,7 @@ Atualmente trabalho ajudando diversas empresas do Brasil a deixarem os seus dado
 
 - 💻 Business Intelligence, Data Analysis, SQL, ITIL 
 - 🎓 Estudando Python e Cybersecurity 
-- ⚡ Apaixonado por Técnologia, Sistemas Open-Source, Data Science e Offensive Security
+- ⚡ Apaixonado por Técnologia, Data Science, Offensive Security e Sistemas Open-Source
 
 ##
 <div align="center"> 
