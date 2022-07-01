@@ -19,6 +19,6 @@ Atualmente trabalho ajudando diversas empresas do Brasil a deixarem os seus dado
 ## 
 <div align="center">
   <a href="https://github.com/mateus-albuquerque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-albuquerque&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-albuquerque&layout=compact&theme=tokyonight"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=mateus-albuquerque&show_icons=true&theme=tokyonight"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-albuquerque&layout=compact&theme=tokyonight"/>
 </div>
