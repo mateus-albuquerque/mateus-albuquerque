@@ -6,15 +6,12 @@ Atualmente trabalho ajudando diversas empresas do Brasil a deixarem os seus dado
 - 🎓 Estudando Python e Cybersecurity 
 - ⚡ Apaixonado por Técnologia, Sistemas Open-Source, Data Science e Offensive Security
 
-</br>
-
+##
 <div align="center"> 
     <a href="https://www.linkedin.com/in/mateus-albuquerque-rosa-49709520b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:mateus.albuquerque.rosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_albuquerque.mateus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-</br>
 
 ## 
 <div align="center">
